@@ -31,7 +31,7 @@ var initAutoType = function() {
             //如果已经到头了，就要删去
             // tempWords = tempWords.substring(0,tempWords.length-1);
             isNext = true;
-            time = 5000;
+            // time = 5000;
         } else {
             //如果既没删完也没显示完
             if (isNext) {
